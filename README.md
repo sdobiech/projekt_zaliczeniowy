@@ -2,7 +2,11 @@
 
 ## Celem projektu było przetestowanie logowania na stronie internetowej castorama.pl z wykorzystaniem narzędzia Selenium Webdriver. Podczas logowania sprawdzano walidację hasła.
 
-### Projekt opiera się na języku programownia Python oraz korzysta z bibliotek unittest, selenium oraz time.  Środowisko wykorzystane do tworzenia testu: Chrome wersja 90.0.4430.212 Ubuntu: 20.04 LTS.
+### Projekt opiera się na języku programownia Python oraz korzysta z bibliotek unittest, selenium oraz time.  
+
+Środowisko wykorzystane do tworzenia testu:
+Chrome wersja 90.0.4430.212
+Ubuntu: 20.04 LTS.
 
 Aby wykonać test należy pobrać i uruchomić plik CastoramaDobiechSylwia.py
 
@@ -27,4 +31,4 @@ Warunki końcowe:
 Konto nie zostaje założone
 
 
-W przyszłości skrypt można rozbudować np. o kontrolę poprawności adresu e-mail czy poprawność działania na innych przeglądarkach. 
+W przyszłości skrypt można rozbudować np. o kontrolę poprawności adresu e-mail czy poprawność działania na innych przeglądarkach.
