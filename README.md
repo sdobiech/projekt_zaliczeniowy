@@ -1,8 +1,11 @@
 # Projekt zaliczeniowy w ramach studiów podyplomowych Tester oprogramowania
 
+
 ## Celem projektu było przetestowanie logowania na stronie internetowej castorama.pl z wykorzystaniem narzędzia Selenium Webdriver. Podczas logowania sprawdzano walidację hasła.
 
+
 ### Projekt opiera się na języku programownia Python oraz korzysta z bibliotek unittest, selenium oraz time.  
+
 
 Środowisko wykorzystane do tworzenia testu:
 Chrome wersja 90.0.4430.212
