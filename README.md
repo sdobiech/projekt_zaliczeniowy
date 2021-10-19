@@ -33,3 +33,5 @@ Konto nie zostaje założone
 
 
 W przyszłości skrypt można rozbudować np. o kontrolę poprawności adresu e-mail czy poprawność działania na innych przeglądarkach.
+
+Komentarz: Projekt został napisany w czerwcu 2021. W chwili obecnej zmieniły się lokalozatory na testowanej stronie - projekt wymaga aktuazliacji.
