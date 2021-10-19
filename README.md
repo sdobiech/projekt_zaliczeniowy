@@ -11,8 +11,6 @@
 Chrome wersja 90.0.4430.212
 Ubuntu: 20.04 LTS.
 
-Aby wykonać test należy pobrać i uruchomić plik CastoramaDobiechSylwia.py
-
 Warunki wstępne:
 1. Uruchomiona przeglądarka
 2. Na stronie https://www.castorama.pl
